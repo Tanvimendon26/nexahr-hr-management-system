@@ -1,0 +1,6 @@
+{
+  "name": "NexaHR",
+  "description": "Enterprise Workforce Management Platform with SQLite database, employee management, attendance tracking, leave requests, role-based authorization, and custom reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
